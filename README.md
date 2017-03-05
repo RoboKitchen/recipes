@@ -18,6 +18,10 @@ For beginners:
 3. https://kokekunster.no/fysmat/1/      -
 4. 
 
+For the Kyblings:
+1. http://www.mttk.no/lenker-og-annet-vas-fra-tidligere-semestre/         - some good souls' lovely werk
+2. http://www.mttk.no/koktilfolket/                                       - ^more of the goodstuff
+
 For those a little more seasoned:
 1. https://github.com/mortenfyhn/ntnu-course-summaries - Summaries of many KYB courses
 2. https://github.com/kjetilkjeka?tab=repositories     - Code and assignments for various KYB courses
